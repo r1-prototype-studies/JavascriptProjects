@@ -1,0 +1,15 @@
+Extensions Needed:
+Auto rename tag
+Bracket pair colorizer
+Javascript Es6 code snippets
+Live server
+
+https://vanillawebprojects.com/
+https://github.com/bradtraversy/vanillawebprojects
+
+https://fonts.google.com/?selection.family=Lato&query=lato
+
+https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/
+https://www.bootstrapcdn.com/fontawesome/
+https://fonts.google.com/?query=questria
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs
