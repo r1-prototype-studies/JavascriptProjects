@@ -30,3 +30,7 @@ https://randomuser.me/
 https://www.themealdb.com/
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio
+
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+https://jsonplaceholder.typicode.com/
