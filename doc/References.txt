@@ -8,9 +8,18 @@ https://vanillawebprojects.com/
 https://github.com/bradtraversy/vanillawebprojects
 
 https://fonts.google.com/?selection.family=Lato&query=lato
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+
 
 https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/
 https://www.bootstrapcdn.com/fontawesome/
+ <link
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      rel="stylesheet"
+      integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+      crossorigin="anonymous"
+    />
+
 https://fonts.google.com/?query=questria
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs
 
@@ -19,3 +28,5 @@ https://www.exchangerate-api.com/docs/overview
 https://randomuser.me/
 
 https://www.themealdb.com/
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio
