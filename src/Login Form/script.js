@@ -30,7 +30,7 @@ function CheckEmail(input) {
 
 // Check required fields
 function checkRequired(inputArray) {
-  inputArray.forEach(input => {
+  inputArray.forEach((input) => {
     if (input.value.trim() === "") {
       showError(input, `${getFieldName(input)} is a required.`);
     } else {
@@ -60,13 +60,13 @@ function checkPasswordMatch(input1, input2) {
   }
 }
 
-//Get field name
+//Get field name - First uppercase and rest lowercase
 function getFieldName(input) {
   return input.id.charAt(0).toUpperCase() + input.id.slice(1);
 }
 
 // Event listeners
-form.addEventListener("submit", function(event) {
+form.addEventListener("submit", function (event) {
   console.info("submit button clicked");
   event.preventDefault();
 
